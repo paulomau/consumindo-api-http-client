@@ -1,6 +1,6 @@
 # consumindo-api-http-client
 Exemplo de consumo de uma api com .net core c#
 
-* A proposta deste cÛdigo È apresentar o uso do HttpClient. 
-* A codificaÁ„o È simples e tem o propÛsito did·tico quanto ‡ uma aplicaÁ„o do recurso.
-* Este cÛdigo È anterior ‡ nova implementaÁ„o feita no .Net Core 5.0, para consumo de API em uma aplicaÁ„o com C#.
+* A proposta deste c√≥digo √© apresentar o uso do HttpClient. 
+* A codifica√ß√£o √© simples e tem o prop√≥sito did√°tico quanto √† aplica√ß√£o do recurso.
+* Este c√≥digo √© anterior a nova implementa√ß√£o feita no .Net Core 5.0, para consumo de API em uma aplica√ß√£o com C#.
