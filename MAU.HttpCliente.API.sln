@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0C32294E-6F02-46F4-AEBE-5EC759F09293}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{899B7C8C-CE3A-4300-9F38-C60CE7CC2236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAU.HttpCliente.App", "src\MAU.HttpCliente.App\MAU.HttpCliente.App.csproj", "{915B8E3A-837E-4481-9858-6220C2C290CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915B8E3A-837E-4481-9858-6220C2C290CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915B8E3A-837E-4481-9858-6220C2C290CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915B8E3A-837E-4481-9858-6220C2C290CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915B8E3A-837E-4481-9858-6220C2C290CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{915B8E3A-837E-4481-9858-6220C2C290CA} = {899B7C8C-CE3A-4300-9F38-C60CE7CC2236}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08972B35-6FDA-45FE-B685-143BDAAAAE2D}
+	EndGlobalSection
+EndGlobal
